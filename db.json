@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "siswa": "Cara membuat roti sobek",
+      "buku": "Mia",
+      "tpinjam": "0001-01-01",
+      "tkembali": "9999-12-31"
+    },
+    {
+      "id": 2,
+      "siswa": "12",
+      "buku": "123",
+      "tpinjam": "0031-02-13",
+      "tkembali": "0031-02-02"
+    }
+  ]
+}
